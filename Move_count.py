@@ -14,7 +14,7 @@ DB_CONFIG = {
     'dbname': 'forecast_db',
     'user': 'postgres',
     'password': 'Password123',
-    'host': '127.0.0.1',
+    'host': 'localhost',
     'port': '5432'
 }
  
